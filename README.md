@@ -7,8 +7,8 @@
 ```sh
 git clone https://github.com/TANSixu/SimpleCrawler.git
 conda create -n [&choose_your_own_name&] python=2.7
-pip install -r requirements.txt
 conda activate [&choose_your_own_name&]
+pip install -r requirements.txt
 ```
 
 ## Usage example
